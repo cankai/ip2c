@@ -1,0 +1,239 @@
+AW	ABW	ARUBA	阿鲁巴	阿魯巴	阿魯巴	阿鲁巴	阿鲁巴[荷兰]	阿魯巴[荷蘭]	阿魯巴[荷蘭]	阿鲁巴[荷兰]
+AF	AFG	AFGHANISTAN	阿富汗	阿富汗	阿富汗	阿富汗	阿富汗伊斯兰共和国	阿富汗伊斯蘭共和國	阿富汗伊斯蘭共和國	阿富汗伊斯兰共和国
+AO	AGO	ANGOLA	安哥拉	安哥拉	安哥拉	安哥拉	安哥拉共和国	安哥拉共和國	安哥拉共和國	安哥拉共和国
+AI	AIA	ANGUILLA	安圭拉	安圭拉	安圭拉	安圭拉	安圭拉[英国]	安圭拉[英國]	安圭拉[英國]	安圭拉[英国]
+AX	ALA	ALAND ISLANDS	奥兰群岛	奧蘭群島	奧蘭群島	奥兰群岛	奥兰自治省	奧蘭自治省	奧蘭自治省	奥兰自治省
+AL	ALB	ALBANIA	阿尔巴尼亚	阿爾巴尼亞	阿爾巴尼亞	阿尔巴尼亚	阿尔巴尼亚共和国	阿爾巴尼亞共和國	阿爾巴尼亞共和國	阿尔巴尼亚共和国
+AD	AND	ANDORRA	安道尔	安道爾	安道爾	安道尔	安道尔公国	安道爾侯國	安道爾公國	安道尔公国
+AN	ANT	NETHERLANDS ANTILLES	荷属安的列斯	荷屬安地列斯	荷屬安地列斯	荷属安的列斯	荷属安的列斯	荷屬安地列斯	荷屬安地列斯	荷属安的列斯
+AE	ARE	UNITED ARAB EMIRATES	阿联酋	阿聯	阿聯酋	阿联酋	阿拉伯联合酋长国	阿拉伯聯合大公國	阿拉伯聯合酋長國	阿拉伯聯合大公國
+AR	ARG	ARGENTINA	阿根廷	阿根廷	阿根廷	阿根廷	阿根廷共和国	阿根廷共和國	阿根廷共和國	阿根廷共和国
+AM	ARM	ARMENIA	亚美尼亚	亞美尼亞	亞美尼亞	亚美尼亚	亚美尼亚共和国	亞美尼亞共和國	亞美尼亞共和國	亚美尼亚共和国
+AS	ASM	AMERICAN SAMOA	美属萨摩亚	美屬薩摩亞	美屬薩摩亞	美属萨摩亚	美属萨摩亚	美屬薩摩亞	美屬薩摩亞	美属萨摩亚
+AQ	ATA	ANTARCTICA	南极洲	南極洲	南極洲	南极洲	南极洲	南極洲	南極洲	南极洲
+TF	ATF	FRENCH SOUTHERN TERRITORIES	法属南部领地	法屬南部領地	法屬南部領地	法属南部领地	法属南方和南极洲领地	法屬南方和南極洲領地	法屬南方和南極洲領地	法属南方和南极洲领地
+AG	ATG	ANTIGUA AND BARBUDA	安提瓜和巴布达	安地卡及巴布達	安提瓜和巴布達	安提瓜和巴布达	安提瓜和巴布达	安地卡及巴布達	安提瓜和巴布達	安提瓜和巴布达
+AU	AUS	AUSTRALIA	澳大利亚	澳洲	澳洲	澳大利亚	澳大利亚联邦	澳大利亞聯邦	澳洲聯邦	澳大利亚联邦
+AT	AUT	AUSTRIA	奥地利	奧地利	奧地利	奥地利	奥地利共和国	奧地利共和國	奧地利共和國	奥地利共和国
+AZ	AZE	AZERBAIJAN	阿塞拜疆	亞塞拜然	阿塞拜疆	阿塞拜疆	阿塞拜疆共和国	亞塞拜然共和國	阿塞拜疆共和國	阿塞拜疆共和国
+BI	BDI	BURUNDI	布隆迪	蒲隆地	布隆迪	布隆迪	布隆迪共和国	蒲隆地共和國	布隆迪共和國	布隆迪共和国
+BE	BEL	BELGIUM	比利时	比利時	比利時	比利时	比利时王国	比利時王國	比利時王國	比利时王国
+BJ	BEN	BENIN	贝宁	貝南	貝寧	贝宁	贝宁共和国	貝南共和國	貝寧共和國	贝宁共和国
+BF	BFA	BURKINA FASO	布基纳法索	布吉納法索	布基納法索	布基纳法索	布基纳法索	布吉納法索	布基納法索	布基纳法索
+BD	BGD	BANGLADESH	孟加拉国	孟加拉國	孟加拉國	孟加拉国	孟加拉人民共和国	孟加拉人民共和國	孟加拉人民共和國	孟加拉人民共和国
+BG	BGR	BULGARIA	保加利亚	保加利亞	保加利亞	保加利亚	保加利亚共和国	保加利亞共和國	保加利亞共和國	保加利亚共和国
+BH	BHR	BAHRAIN	巴林	巴林	巴林	巴林	巴林王国	巴林王國	巴林王國	巴林王国
+BS	BHS	BAHAMAS	巴哈马	巴哈馬	巴哈馬	巴哈马	巴哈马联邦	巴哈馬聯邦	巴哈馬聯邦	巴哈马联邦
+BA	BIH	BOSNIA AND HERZEGOVINA	波黑	波赫	波黑	波黑	波斯尼亚和黑塞哥维那	波士尼亞與赫塞哥維納	波斯尼亞和黑塞哥維那	波斯尼亚和黑塞哥维那
+BY	BLR	BELARUS	白俄罗斯	白俄羅斯	白俄羅斯	白俄罗斯	白俄罗斯共和国	白俄羅斯共和國	白俄羅斯共和國	白俄罗斯共和国
+BZ	BLZ	BELIZE	伯利兹	貝里斯	伯利茲	伯利兹	伯利兹	貝里斯	伯利茲	伯利兹
+BM	BMU	BERMUDA	百慕大群岛	百慕達群島	百慕達群島	百慕大群岛	百慕大群岛	百慕達群島	百慕達群島	百慕大群岛
+BO	BOL	BOLIVIA	玻利维亚	玻利維亞	玻利維亞	玻利维亚	玻利维亚多民族国	玻利維亞多民族國	玻利維亞多民族國	玻利维亚多民族国
+BR	BRA	BRAZIL	巴西	巴西	巴西	巴西	巴西联邦共和国	巴西聯邦共和國	巴西聯邦共和國	巴西联邦共和国
+BB	BRB	BARBADOS	巴巴多斯	巴貝多	巴貝多	巴巴多斯	巴巴多斯	巴貝多	巴貝多	巴巴多斯
+BN	BRN	BRUNEI DARUSSALAM	文莱	汶萊	汶萊	汶莱	文莱达鲁萨兰国	汶萊和平之國	汶萊達魯薩蘭國	汶莱达鲁萨兰国
+BT	BTN	BHUTAN	不丹	不丹	不丹	不丹	不丹王国	不丹王國	不丹王國	不丹王国
+BV	BVT	BOUVET ISLAND	布韦岛	布威島	鮑威特島	布韦岛	布韦岛[挪威]	布威島[挪威]	鮑威特島[挪威]	布韦岛[挪威]
+BW	BWA	BOTSWANA	博茨瓦纳	波札那	博茨瓦納	博茨瓦纳	博茨瓦纳共和国	波札那共和國	博茨瓦納共和國	博茨瓦纳共和国
+CF	CAF	CENTRAL AFRICAN REPUBLIC	中非	中非	中非	中非	中非共和国	中非共和國	中非共和國	中非共和国
+CA	CAN	CANADA	加拿大	加拿大	加拿大	加拿大	加拿大	加拿大	加拿大	加拿大
+CH	CHE	SWITZERLAND	瑞士	瑞士	瑞士	瑞士	瑞士联邦	瑞士聯邦	瑞士聯邦	瑞士联邦
+CL	CHL	CHILE	智利	智利	智利	智利	智利共和国	智利共和國	智利共和國	智利共和国
+CN	CHN	CHINA	中国	中國	中國	中国	中华人民共和国	中華人民共和國	中華人民共和國	中华人民共和国
+CI	CIV	COTE D'IVOIRE	科特迪瓦	象牙海岸	科特迪瓦	科特迪瓦	科特迪瓦共和国	象牙海岸共和國	科特迪瓦共和國	科特迪瓦共和国
+CM	CMR	CAMEROON	喀麦隆	喀麥隆	喀麥隆	喀麦隆	喀麦隆共和国	喀麥隆共和國	喀麥隆共和國	喀麦隆共和国
+CD	COD	THE DEMOCRATIC REPUBLIC OF THE CONGO	刚果（金）	民主剛果	民主剛果	民主刚果	刚果民主共和国	剛果民主共和國	剛果民主共和國	刚果民主共和国
+CG	COG	CONGO	刚果（布）	剛果	剛果	刚果	刚果共和国	剛果共和國	剛果共和國	刚果共和国
+CK	COK	COOK ISLANDS	库克群岛	庫克群島	庫克群島	库克群岛	库克群岛	庫克群島	庫克群島	库克群岛
+CO	COL	COLOMBIA	哥伦比亚	哥倫比亞	哥倫比亞	哥伦比亚	哥伦比亚共和国	哥倫比亞共和國	哥倫比亞共和國	哥伦比亚共和国
+KM	COM	COMOROS	科摩罗	葛摩	科摩罗	科摩罗	科摩罗联盟	葛摩聯盟	科摩罗聯盟	科摩罗联盟
+CV	CPV	CAPE VERDE	佛得角	維德角	佛得角	佛得角	佛得角共和国	維德角共和國	佛得角共和國	佛得角共和国
+CR	CRI	COSTA RICA	哥斯达黎加	哥斯大黎加	哥斯達黎加	哥斯达黎加	哥斯达黎加共和国	哥斯大黎加共和國	哥斯達黎加共和國	哥斯达黎加共和国
+CU	CUB	CUBA	古巴	古巴	古巴	古巴	古巴共和国	古巴共和國	古巴共和國	古巴共和国
+KY	CYM	CAYMAN ISLANDS	开曼群岛	開曼群島	開曼群島	开曼群岛	开曼群岛[英国]	開曼群島[英國]	開曼群島[英國]	开曼群岛[英国]
+CY	CYP	CYPRUS	塞浦路斯	賽普勒斯	塞浦路斯	塞浦路斯	塞浦路斯共和国	賽普勒斯共和國	塞浦路斯共和國	塞浦路斯共和国
+CZ	CZE	CZECH REPUBLIC	捷克	捷克	捷克	捷克	捷克共和国	捷克共和國	捷克共和國	捷克共和国
+DE	DEU	GERMANY	德国	德國	德國	德国	德意志联邦共和国	德意志聯邦共和國	德意志聯邦共和國	德意志联邦共和国
+DJ	DJI	DJIBOUTI	吉布提	吉布地	吉布提	吉布提	吉布提共和国	吉布地共和國	吉布提共和國	吉布提共和国
+DM	DMA	DOMINICA	多米尼克	多米尼克	多米尼克	多米尼克	多米尼克国	多米尼克國	多米尼克國	多米尼克国
+DK	DNK	DENMARK	丹麦	丹麥	丹麥	丹麦	丹麦王国	丹麥王國	丹麥王國	丹麦王国
+DO	DOM	DOMINICAN REPUBLIC	多米尼加	多明尼加	多明尼加	多米尼加	多米尼加共和国	多明尼加共和國	多明尼加共和國	多米尼加共和国
+DZ	DZA	ALGERIA	阿尔及利亚	阿爾及利亞	阿爾及利亞	阿尔及利亚	阿尔及利亚民主人民共和国	阿爾及利亞人民民主共和國	阿爾及利亞人民民主共和國	阿尔及利亚民主人民共和国
+EC	ECU	ECUADOR	厄瓜多尔	厄瓜多	厄瓜多爾	厄瓜多尔	厄瓜多尔共和国	厄瓜多共和國	厄瓜多爾共和國	厄瓜多尔共和国
+EG	EGY	EGYPT	埃及	埃及	埃及	埃及	阿拉伯埃及共和国	埃及阿拉伯共和國	埃及阿拉伯共和國	阿拉伯埃及共和国
+ER	ERI	ERITREA	厄立特里亚	厄利垂亞	厄立特里亞	厄立特里亚	厄立特里亚国	厄利垂亞國	厄立特里亞國	厄立特里亚国
+ES	ESP	SPAIN	西班牙	西班牙	西班牙	西班牙	西班牙王国	西班牙王國	西班牙王國	西班牙王国
+EE	EST	ESTONIA	爱沙尼亚	愛沙尼亞	愛沙尼亞	爱沙尼亚	爱沙尼亚共和国	愛沙尼亞共和國	愛沙尼亞共和國	爱沙尼亚共和国
+ET	ETH	ETHIOPIA	埃塞俄比亚	衣索比亞	埃塞俄比亞	埃塞俄比亚	埃塞俄比亚联邦民主共和国	衣索比亞聯邦民主共和國	埃塞俄比亞聯邦民主共和國	埃塞俄比亚联邦民主共和国
+FI	FIN	FINLAND	芬兰	芬蘭	芬蘭	芬兰	芬兰共和国	芬蘭共和國	芬蘭共和國	芬兰共和国
+FJ	FJI	FIJI	斐济	斐濟	斐濟	斐济	斐济群岛共和国	斐濟群島共和國	斐濟群島共和國	斐济群岛共和国
+FK	FLK	FALKLAND ISLANDS (MALVINAS)	福克兰群岛	福克蘭群島	福克蘭群島	福克兰群岛	福克兰群岛（马尔维纳斯群岛）	福克蘭群島（馬維娜斯群島）	福克蘭群島（馬維娜斯群島）	福克兰群岛（马尔维纳斯群岛）
+FR	FRA	FRANCE	法国	法國	法國	法国	法兰西共和国	法蘭西共和國	法蘭西共和國	法兰西共和国
+FO	FRO	FAROE ISLANDS	法罗群岛	法羅群島	法羅群島	法罗群岛	法罗群岛[丹麦]	法羅群島[丹麥]	法羅群島[丹麥]	法罗群岛[丹麦]
+FM	FSM	FEDERATED STATES OF MICRONESIA	密克罗尼西亚	密克羅尼西亞	密克羅尼西亞	密克罗尼西亚	密克罗尼西亚联邦	密克羅尼西亞聯邦	密克羅尼西亞聯邦	密克罗尼西亚联邦
+GA	GAB	GABON	加蓬	加彭	加蓬	加蓬	加蓬共和国	加彭共和國	加蓬共和國	加蓬共和国
+GB	GBR	UNITED KINGDOM	英国	英國	英國	英国	大不列颠及北爱尔兰联合王国	大不列顛及北愛爾蘭聯合王國	大不列顛及北愛爾蘭聯合王國	大不列颠及北爱尔兰联合王国
+GE	GEO	GEORGIA	格鲁吉亚	喬治亞	格魯吉亞	格鲁吉亚	格鲁吉亚共和国	喬治亞共和國	格魯吉亞共和國	格鲁吉亚共和国
+GG	GGY	GUERNSEY	根西岛	根息島	根西島	根西岛	根西行政区[英国]	根息行政區[英國]	根西行政區[英國]	根西行政区[英国]
+GH	GHA	GHANA	加纳	迦納	加納	加纳	加纳共和国	迦納共和國	加納共和國	加纳共和国
+GI	GIB	GIBRALTAR	直布罗陀	直布羅陀	直布羅陀	直布罗陀	直布罗陀[英国]	直布羅陀[英國]	直布羅陀[英國]	直布罗陀[英国]
+GN	GIN	GUINEA	几内亚	幾內亞	畿內亞	几内亚	几内亚共和国	幾內亞共和國	畿內亞共和國	几内亚共和国
+GP	GLP	GUADELOUPE	瓜德罗普	瓜德羅普	瓜德羅普	瓜德罗普	瓜德罗普[法国]	瓜德羅普[法國]	瓜德羅普[法國]	瓜德罗普[法国]
+GM	GMB	GAMBIA	冈比亚	甘比亞	岡比亞	冈比亚	冈比亚共和国	甘比亞共和國	岡比亞共和國	冈比亚共和国
+GW	GNB	GUINEA-BISSAU	几内亚比绍	幾內亞比索	畿內亞比紹	几内亚比绍	几内亚比绍共和国	幾內亞比索共和國	畿內亞比紹共和國	几内亚比绍共和国
+GQ	GNQ	EQUATORIAL GUINEA	赤道几内亚	赤道幾內亞	赤道畿內亞	赤道几内亚	赤道几内亚共和国	赤道幾內亞共和國	赤道畿內亞共和國	赤道几内亚共和国
+GR	GRC	GREECE	希腊	希臘	希臘	希腊	希腊共和国	希臘共和國	希臘共和國	希腊共和国
+GD	GRD	GRENADA	格林纳达	格瑞那達	格林納達	格林纳达	格林纳达	格瑞那達	格林納達	格林纳达
+GL	GRL	GREENLAND	格陵兰	格陵蘭	格陵蘭	格陵兰	格陵兰[丹麦]	格陵蘭[丹麥]	格陵蘭[丹麥]	格陵兰[丹麦]
+GT	GTM	GUATEMALA	危地马拉	瓜地馬拉	危地馬拉	瓜地马拉	危地马拉共和国	瓜地馬拉共和國	危地馬拉共和國	瓜地马拉共和国
+GF	GUF	FRENCH GUIANA	法属圭亚那	法屬蓋亞那	法屬圭亞那	法属圭亚那	法属圭亚那	法屬蓋亞那	法屬圭亞那	法属圭亚那
+GU	GUM	GUAM	关岛	關島	關島	关岛	关岛[美国]	關島[美國]	關島[美國]	关岛[美国]
+GY	GUY	GUYANA	圭亚那	蓋亞那	圭亞那	圭亚那	圭亚那合作共和国	蓋亞那合作共和國	圭亞那合作共和國	圭亚那合作共和国
+HK	HKG	HONG KONG	香港	香港	香港	香港	香港特别行政区	香港特別行政區	香港特別行政區	香港特别行政区
+HN	HND	HONDURAS	洪都拉斯	宏都拉斯	洪都拉斯	洪都拉斯	洪都拉斯共和国	宏都拉斯共和國	洪都拉斯共和國	洪都拉斯共和国
+HR	HRV	CROATIA	克罗地亚	克羅埃西亞	克羅地亞	克罗地亚	克罗地亚共和国	克羅埃西亞共和國	克羅地亞共和國	克罗地亚共和国
+HT	HTI	HAITI	海地	海地	海地	海地	海地共和国	海地共和國	海地共和國	海地共和国
+HU	HUN	HUNGARY	匈牙利	匈牙利	匈牙利	匈牙利	匈牙利共和国	匈牙利共和國	匈牙利共和國	匈牙利共和国
+ID	IDN	INDONESIA	印度尼西亚	印度尼西亚	印度尼西亚	印度尼西亚	印度尼西亚共和国	印度尼西亞共和國	印度尼西亞共和國	印度尼西亚共和国
+IM	IMN	ISLE OF MAN	马恩岛	曼島	萌島	马恩岛	马恩岛[英国]	曼島[英國]	萌島[英國]	马恩岛[英国]
+IN	IND	INDIA	印度	印度	印度	印度	印度共和国	印度共和國	印度共和國	印度共和国
+IO	IOT	BRITISH INDIAN OCEAN TERRITORY	英属印度洋领地	英屬印度洋領地	英屬印度洋領地	英属印度洋领地	英属印度洋领地	英屬印度洋領地	英屬印度洋領地	英属印度洋领地
+IE	IRL	IRELAND	爱尔兰	愛爾蘭	愛爾蘭	爱尔兰	爱尔兰共和国	愛爾蘭共和國	愛爾蘭共和國	爱尔兰共和国
+IR	IRN	ISLAMIC REPUBLIC OF IRAN	伊朗	伊朗	伊朗	伊朗	伊朗伊斯兰共和国	伊朗伊斯蘭共和國	伊朗伊斯蘭共和國	伊朗伊斯兰共和国
+IQ	IRQ	IRAQ	伊拉克	伊拉克	伊拉克	伊拉克	伊拉克共和国	伊拉克共和國	伊拉克共和國	伊拉克共和国
+IS	ISL	ICELAND	冰岛	冰島	冰島	冰岛	冰岛共和国	冰島共和國	冰島共和國	冰岛共和国
+IL	ISR	ISRAEL	以色列	以色列	以色列	以色列	以色列国	以色列國	以色列國	以色列国
+IT	ITA	ITALY	意大利	義大利	意大利	意大利	意大利共和国	義大利共和國	意大利共和國	意大利共和国
+JM	JAM	JAMAICA	牙买加	牙買加	牙買加	牙买加	牙买加	牙買加	牙買加	牙买加
+JE	JEY	JERSEY	泽西岛	澤西島	澤西島	泽西岛	泽西行政区[英国]	澤西行政區[英國]	澤西行政區[英國]	泽西行政区[英国]
+JO	JOR	JORDAN	约旦	約旦	約旦	约旦	约旦哈希姆王国	約旦哈希姆王國	約旦哈希姆王國	约旦哈希姆王国
+JP	JPN	JAPAN	日本	日本	日本	日本	日本国	日本國	日本國	日本国
+KZ	KAZ	KAZAKHSTAN	哈萨克斯坦	哈薩克	哈薩克斯坦	哈萨克斯坦	哈萨克斯坦共和国	哈薩克共和國	哈薩克斯坦共和國	哈萨克斯坦共和国
+KE	KEN	KENYA	肯尼亚	肯亞	肯雅	肯尼亚	肯尼亚共和国	肯亞共和國	肯雅共和國	肯尼亚共和国
+KG	KGZ	KYRGYZSTAN	吉尔吉斯斯坦	吉爾吉斯	吉爾吉斯坦	吉尔吉斯斯坦	吉尔吉斯共和国	吉爾吉斯共和國	吉爾吉斯共和國	吉尔吉斯共和国
+KH	KHM	CAMBODIA	柬埔寨	柬埔寨	柬埔寨	柬埔寨	柬埔寨王国	柬埔寨王國	柬埔寨王國	柬埔寨王国
+KI	KIR	KIRIBATI	基里巴斯	吉里巴斯	基里巴斯	基里巴斯	基里巴斯共和国	吉里巴斯共和國	基里巴斯共和國	基里巴斯共和国
+KN	KNA	SAINT KITTS AND NEVIS	圣基茨和尼维斯	聖克里斯多福與尼維斯	聖基茨和尼維斯	圣克里斯多福与尼维斯	圣基茨和尼维斯联邦	聖克里斯多福與尼維斯聯邦	聖基茨和尼維斯聯邦	圣克里斯多福与尼维斯联邦
+KR	KOR	REPUBLIC OF KOREA	韩国	韓國	韓國	韩国	大韩民国	大韓民國	大韓民國	大韩民国
+KW	KWT	KUWAIT	科威特	科威特	科威特	科威特	科威特国	科威特國	科威特國	科威特国
+LA	LAO	LAO PEOPLE'S DEMOCRATIC REPUBLIC	老挝	寮國	老撾	寮国	老挝人民民主共和国	寮人民民主共和國	老撾人民民主共和國	寮人民民主共和国
+LB	LBN	LEBANON	黎巴嫩	黎巴嫩	黎巴嫩	黎巴嫩	黎巴嫩共和国	黎巴嫩共和國	黎巴嫩共和國	黎巴嫩共和国
+LR	LBR	LIBERIA	利比里亚	賴比瑞亞	利比里亞	利比里亚	利比里亚共和国	賴比瑞亞共和國	利比里亞共和國	利比里亚共和国
+LY	LBY	LIBYAN ARAB JAMAHIRIYA	利比亚	利比亞	利比亞	利比亚	大阿拉伯利比亚人民社会主义民众国	大利比亞阿拉伯人民社會主義群眾國	大阿拉伯利比亞人民社會主義民眾國	大阿拉伯利比亚人民社会主义民众国
+LC	LCA	SAINT LUCIA	圣卢西亚	聖露西亞	聖盧西亞	圣卢西亚	圣卢西亚	聖露西亞	聖盧西亞	圣卢西亚
+LI	LIE	LIECHTENSTEIN	列支敦士登	列支敦斯登	列支敦斯登	列支敦士登	列支敦士登公国	列支敦斯登大公國	列支敦斯登公國	列支敦士登公国
+LK	LKA	SRI LANKA	斯里兰卡	斯里蘭卡	斯里蘭卡	斯里兰卡	斯里兰卡民主社会主义共和国	斯里蘭卡民主社會主義共和國	斯里蘭卡民主社會主義共和國	斯里兰卡民主社会主义共和国
+LS	LSO	LESOTHO	莱索托	賴索托	萊索托	莱索托	莱索托王国	賴索托王國	萊索托王國	莱索托王国
+LT	LTU	LITHUANIA	立陶宛	立陶宛	立陶宛	立陶宛	立陶宛共和国	立陶宛共和國	立陶宛共和國	立陶宛共和国
+LU	LUX	LUXEMBOURG	卢森堡	盧森堡	盧森堡	卢森堡	卢森堡大公国	盧森堡大公國	盧森堡大公國	卢森堡大公国
+LV	LVA	LATVIA	拉脱维亚	拉脫維亞	拉脫維亞	拉脱维亚	拉脱维亚共和国	拉脫維亞共和國	拉脫維亞共和國	拉脱维亚共和国
+MO	MAC	MACAO	澳门	澳門	澳門	澳门	澳门特别行政区	澳門特別行政區	澳門特別行政區	澳门特别行政区
+MF	MAF	SAINT MARTIN	法属圣马丁	法屬聖馬丁	法屬聖馬丁	法属圣马丁	圣马丁行政区[法国]	聖馬丁行政區[法國]	聖馬丁行政區[法國]	圣马丁行政区[法国]
+MA	MAR	MOROCCO	摩洛哥	摩洛哥	摩洛哥	摩洛哥	摩洛哥王国	摩洛哥王國	摩洛哥王國	摩洛哥王国
+MC	MCO	MONACO	摩纳哥	摩納哥	摩納哥	摩纳哥	摩纳哥公国	摩納哥侯國	摩納哥公國	摩纳哥公国
+MD	MDA	REPUBLIC OF MOLDOVA	摩尔多瓦	摩爾多瓦	摩爾多瓦	摩尔多瓦	摩尔多瓦共和国	摩爾多瓦共和國	摩爾多瓦共和國	摩尔多瓦共和国
+MG	MDG	MADAGASCAR	马达加斯加	馬達加斯加	馬達加斯加	马达加斯加	马达加斯加共和国	馬達加斯加共和國	馬達加斯加共和國	马达加斯加共和国
+MV	MDV	MALDIVES	马尔代夫	馬爾地夫	馬爾代夫	马尔代夫	马尔代夫共和国	馬爾地夫共和國	馬爾代夫共和國	马尔代夫共和国
+MX	MEX	MEXICO	墨西哥	墨西哥	墨西哥	墨西哥	墨西哥合众国	墨西哥合眾國	墨西哥合眾國	墨西哥合众国
+MH	MHL	MARSHALL ISLANDS	马绍尔群岛	馬紹爾群島	馬紹爾群島	马绍尔群岛	马绍尔群岛共和国	馬紹爾群島共和國	馬紹爾群島共和國	马绍尔群岛共和国
+MK	MKD	THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA	马其顿	馬其頓	馬其頓	马其顿	前南斯拉夫马其顿共和国	前南斯拉夫馬其頓共和國	前南斯拉夫馬其頓共和國	前南斯拉夫马其顿共和国
+ML	MLI	MALI	马里	馬利	馬里	马利	马里共和国	馬利共和國	馬里共和國	马利共和国
+MT	MLT	MALTA	马耳他	馬爾他	馬爾他	马耳他	马耳他共和国	馬爾他共和國	馬爾他共和國	马耳他共和国
+MM	MMR	MYANMAR	缅甸	緬甸	緬甸	缅甸	缅甸联邦	緬甸聯邦	緬甸聯邦	缅甸联邦
+ME	MNE	MONTENEGRO	黑山	蒙特內哥羅	黑山	黑山	黑山共和国	蒙特內哥羅共和國	黑山共和國	黑山共和国
+MN	MNG	MONGOLIA	蒙古	蒙古	蒙古	蒙古	蒙古国	蒙古國	蒙古國	蒙古国
+MP	MNP	NORTHERN MARIANA ISLANDS	北马里亚纳群岛	北馬利安納群島	北馬里亞納群島	北马里亚纳群岛	北马里亚纳群岛邦[美国]	北馬利安納群島邦[美國]	北馬里亞納群島邦[美國]	北马里亚纳群岛邦[美国]
+MZ	MOZ	MOZAMBIQUE	莫桑比克	莫三比克	莫桑比克	莫桑比克	莫桑比克共和国	莫三比克共和國	莫桑比克共和國	莫桑比克共和国
+MR	MRT	MAURITANIA	毛里塔尼亚	茅利塔尼亞	毛里塔尼亞	毛里塔尼亚	毛里塔尼亚伊斯兰共和国	茅利塔尼亞伊斯蘭共和國	毛里塔尼亞伊斯蘭共和國	毛里塔尼亚伊斯兰共和国
+MS	MSR	MONTSERRAT	蒙塞拉特岛	蒙塞拉特島	蒙塞拉特島	蒙塞拉特岛	蒙塞拉特岛[英国]	蒙塞拉特島[英國]	蒙塞拉特島[英國]	蒙塞拉特岛[英国]
+MQ	MTQ	MARTINIQUE	马提尼克	馬提尼克	馬提尼克	马提尼克	马提尼克[法国]	馬提尼克[法國]	馬提尼克[法國]	马提尼克[法国]
+MU	MUS	MAURITIUS	毛里求斯	模里西斯	毛里裘斯	毛里求斯	毛里求斯共和国	模里西斯共和國	毛里裘斯共和國	毛里求斯共和国
+MW	MWI	MALAWI	马拉维	馬拉威	馬拉維	马拉维	马拉维共和国	馬拉威共和國	馬拉維共和國	马拉维共和国
+MY	MYS	MALAYSIA	马来西亚	馬來西亞	馬來西亞	马来西亚	马来西亚	馬來西亞	馬來西亞	马来西亚
+YT	MYT	MAYOTTE	马约特	馬約特	馬約特	马约特	马约特省级领地[法国]	馬約特省級領地[法國]	馬約特省級領地[法國]	马约特省级领地[法国]
+NA	NAM	NAMIBIA	纳米比亚	納米比亞	納米比亞	纳米比亚	纳米比亚共和国	納米比亞共和國	納米比亞共和國	纳米比亚共和国
+NC	NCL	NEW CALEDONIA	新喀里多尼亚	新喀里多尼亞	新喀里多尼亞	新喀里多尼亚	新喀里多尼亚[法国]	新喀里多尼亞[法國]	新喀里多尼亞[法國]	新喀里多尼亚[法国]
+NE	NER	NIGER	尼日尔	尼日	尼日爾	尼日尔	尼日尔共和国	尼日共和國	尼日爾共和國	尼日尔共和国
+NF	NFK	NORFOLK ISLAND	诺福克岛	諾福克島	諾福克島	诺福克岛	诺福克岛领地[澳大利亚]	諾福克島領地[澳洲]	諾福克島領地[澳洲]	诺福克岛领地[澳大利亚]
+NG	NGA	NIGERIA	尼日利亚	奈及利亞	尼日利亞	尼日利亚	尼日利亚联邦共和国	奈及利亞聯邦共和國	尼日利亞聯邦共和國	尼日利亚联邦共和国
+NI	NIC	NICARAGUA	尼加拉瓜	尼加拉瓜	尼加拉瓜	尼加拉瓜	尼加拉瓜共和国	尼加拉瓜共和國	尼加拉瓜共和國	尼加拉瓜共和国
+NU	NIU	NIUE	紐埃	纽埃	纽埃	紐埃	紐埃	纽埃	纽埃	紐埃
+NL	NLD	NETHERLANDS	荷兰	荷蘭	荷蘭	荷兰	荷兰王国	荷蘭王國	荷蘭王國	荷兰王国
+NO	NOR	NORWAY	挪威	挪威	挪威	挪威	挪威王国	挪威王國	挪威王國	挪威王国
+NP	NPL	NEPAL	尼泊尔	尼泊爾	尼泊爾	尼泊尔	尼泊尔联邦民主共和国	尼泊爾聯邦民主共和國	尼泊爾聯邦民主共和國	尼泊尔联邦民主共和国
+NR	NRU	NAURU	瑙鲁	諾魯	瑙魯	瑙鲁	瑙鲁共和国	諾魯共和國	瑙魯共和國	瑙鲁共和国
+NZ	NZL	NEW ZEALAND	新西兰	紐西蘭	紐西蘭	纽西兰	新西兰	紐西蘭	紐西蘭	纽西兰
+OM	OMN	OMAN	阿曼	阿曼	阿曼	阿曼	阿曼苏丹国	阿曼蘇丹國	阿曼蘇丹國	阿曼苏丹国
+PK	PAK	PAKISTAN	巴基斯坦	巴基斯坦	巴基斯坦	巴基斯坦	巴基斯坦伊斯兰共和国	巴基斯坦伊斯蘭共和國	巴基斯坦伊斯蘭共和國	巴基斯坦伊斯兰共和国
+PA	PAN	PANAMA	巴拿马	巴拿馬	巴拿馬	巴拿马	巴拿马共和国	巴拿馬共和國	巴拿馬共和國	巴拿马共和国
+PE	PER	PERU	秘鲁	秘魯	秘魯	秘鲁	秘鲁共和国	秘魯共和國	秘魯共和國	秘鲁共和国
+PH	PHL	PHILIPPINES	菲律宾	菲律賓	菲律賓	菲律宾	菲律宾共和国	菲律賓共和國	菲律賓共和國	菲律宾共和国
+PW	PLW	PALAU	帕劳	帛琉	帛琉	帕劳	帕劳共和国	帛琉共和國	帛琉共和國	帕劳共和国
+PG	PNG	PAPUA NEW GUINEA	巴布亚新几内亚	巴布亞紐幾內亞	巴布亞新畿內亞	巴布亚新几内亚	巴布亚新几内亚独立国	巴布亞紐幾內亞獨立國	巴布亞新畿內亞獨立國	巴布亚新几内亚独立国
+PL	POL	POLAND	波兰	波蘭	波蘭	波兰	波兰共和国	波蘭共和國	波蘭共和國	波兰共和国
+PR	PRI	PUERTO RICO	波多黎各	波多黎各	波多黎各	波多黎各	波多黎各自治邦[美国]	波多黎各自治邦[美國]	波多黎各自治邦[美國]	波多黎各自治邦[美国]
+KP	PRK	DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA	朝鲜	朝鮮	朝鮮	朝鲜	朝鲜民主主义人民共和国	朝鮮民主主義人民共和國	朝鮮民主主義人民共和國	朝鲜民主主义人民共和国
+PT	PRT	PORTUGAL	葡萄牙	葡萄牙	葡萄牙	葡萄牙	葡萄牙共和国	葡萄牙共和國	葡萄牙共和國	葡萄牙共和国
+PY	PRY	PARAGUAY	巴拉圭	巴拉圭	巴拉圭	巴拉圭	巴拉圭共和国	巴拉圭共和國	巴拉圭共和國	巴拉圭共和国
+PS	PSE	"PALESTINIAN TERRITORY, OCCUPIED"	巴勒斯坦	巴勒斯坦	巴勒斯坦	巴勒斯坦	巴勒斯坦领土	巴勒斯坦領土	巴勒斯坦領土	巴勒斯坦领土
+PF	PYF	FRENCH POLYNESIA	法属波利尼西亚	法屬玻里尼西亞	法屬波利尼西亞	法属波利尼西亚	法属波利尼西亚	法屬玻里尼西亞	法屬波利尼西亞	法属波利尼西亚
+QA	QAT	QATAR	卡塔尔	卡達	卡塔爾	卡塔尔	卡塔尔	卡達	卡塔爾	卡塔尔
+RE	REU	REUNION	留尼旺	留尼旺	留尼旺	留尼旺	留尼汪[法国]	留尼旺[法國]	留尼旺[法國]	留尼汪[法国]
+RO	ROU	ROMANIA	罗马尼亚	羅馬尼亞	羅馬尼亞	罗马尼亚	罗马尼亚	羅馬尼亞	羅馬尼亞	罗马尼亚
+RU	RUS	RUSSIAN FEDERATION	俄罗斯	俄羅斯	俄羅斯	俄罗斯	俄罗斯联邦	俄羅斯聯邦	俄羅斯聯邦	俄罗斯联邦
+RW	RWA	RWANDA	卢旺达	盧安達	盧旺達	卢旺达	卢旺达共和国	盧安達共和國	盧旺達共和國	卢旺达共和国
+SA	SAU	SAUDI ARABIA	沙特阿拉伯	沙烏地阿拉伯	沙特阿拉伯	沙地阿拉伯	沙特阿拉伯王国	沙烏地阿拉伯王國	沙特阿拉伯王國	沙地阿拉伯王国
+SD	SDN	SUDAN	苏丹	蘇丹	蘇丹	苏丹	苏丹共和国	蘇丹共和國	蘇丹共和國	苏丹共和国
+SN	SEN	SENEGAL	塞内加尔	塞內加爾	塞內加爾	塞内加尔	塞内加尔共和国	塞內加爾共和國	塞內加爾共和國	塞内加尔共和国
+SG	SGP	SINGAPORE	新加坡	新加坡	新加坡	新加坡	新加坡共和国	新加坡共和國	新加坡共和國	新加坡共和国
+GS	SGS	SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS	南乔治亚岛和南桑威奇群岛	南喬治亞島與南三明治群島	南喬治亞島與南桑威奇群島	南乔治亚岛和南桑威奇群岛	南乔治亚岛和南桑威奇群岛[英国]	南喬治亞島與南三明治群島[英國]	南喬治亞島與南桑威奇群島[英國]	南乔治亚岛和南桑威奇群岛[英国]
+SB	SLB	SOLOMON ISLANDS	所罗门群岛	索羅門群島	所羅門群島	所罗门群岛	所罗门群岛	索羅門群島	所羅門群島	所罗门群岛
+SL	SLE	SIERRA LEONE	塞拉利昂	獅子山	塞拉利昂	塞拉利昂	塞拉利昂共和国	獅子山共和國	塞拉利昂共和國	塞拉利昂共和国
+SV	SLV	EL SALVADOR	萨尔瓦多	薩爾瓦多	薩爾瓦多	萨尔瓦多	萨尔瓦多共和国	薩爾瓦多共和國	薩爾瓦多共和國	萨尔瓦多共和国
+SM	SMR	SAN MARINO	圣马力诺	聖馬利諾	聖馬利諾	圣马力诺	圣马力诺共和国	聖馬利諾共和國	聖馬利諾共和國	圣马力诺共和国
+SO	SOM	SOMALIA	索马里	索馬利亞	索馬里	索马里	索马里共和国	索馬利亞共和國	索馬里共和國	索马里共和国
+PM	SPM	SAINT PIERRE AND MIQUELON	圣皮埃尔和密克隆群岛	聖皮耶與密克隆群島	聖皮埃爾和密克隆群島	圣皮埃尔和密克隆群岛	圣皮埃尔和密克隆群岛[法国]	聖皮耶與密克隆群島[法國]	聖皮埃爾和密克隆群島[法國]	圣皮埃尔和密克隆群岛[法国]
+RS	SRB	SERBIA	塞尔维亚	塞爾維亞	塞爾維亞	塞尔维亚	塞尔维亚共和国	塞爾維亞共和國	塞爾維亞共和國	塞尔维亚共和国
+ST	STP	SAO TOME AND PRINCIPE	圣多美和普林西比	聖多美普林西比	聖多美和普林西比	圣多美和普林西比	圣多美和普林西比民主共和国	聖多美普林西比民主共和國	聖多美和普林西比民主共和國	圣多美和普林西比民主共和国
+SR	SUR	SURINAME	苏里南	蘇利南	蘇利南	苏里南	苏里南共和国	蘇利南共和國	蘇利南共和國	苏里南共和国
+SK	SVK	SLOVAKIA	斯洛伐克	斯洛伐克	斯洛伐克	斯洛伐克	斯洛伐克共和国	斯洛伐克共和國	斯洛伐克共和國	斯洛伐克共和国
+SI	SVN	SLOVENIA	斯洛文尼亚	斯洛維尼亞	斯洛文尼亞	斯洛文尼亚	斯洛文尼亚共和国	斯洛維尼亞共和國	斯洛文尼亞共和國	斯洛文尼亚共和国
+SE	SWE	SWEDEN	瑞典	瑞典	瑞典	瑞典	瑞典王国	瑞典王國	瑞典王國	瑞典王国
+SZ	SWZ	SWAZILAND	斯威士兰	史瓦濟蘭	斯威士蘭	斯威士兰	斯威士兰王国	史瓦濟蘭王國	斯威士蘭王國	斯威士兰王国
+SC	SYC	SEYCHELLES	塞舌尔	塞席爾	塞舌爾	塞舌尔	塞舌尔共和国	塞席爾共和國	塞舌爾共和國	塞舌尔共和国
+SY	SYR	SYRIAN ARAB REPUBLIC	叙利亚	敘利亞	敘利亞	叙利亚	阿拉伯叙利亚共和国	敘利亞阿拉伯共和國	敘利亞阿拉伯共和國	阿拉伯叙利亚共和国
+TC	TCA	TURKS AND CAICOS ISLANDS	特克斯和凯科斯群岛	土克凱可群島	特克斯和凱科斯群島	特克斯和凯科斯群岛	特克斯和凯科斯群岛[英国]	土克凱可群島[英國]	特克斯和凱科斯群島[英國]	特克斯和凯科斯群岛[英国]
+TD	TCD	CHAD	乍得	查德	乍得	乍得	乍得共和国	查德共和國	乍得共和國	乍得共和国
+TG	TGO	TOGO	多哥	多哥	多哥	多哥	多哥共和国	多哥共和國	多哥共和國	多哥共和国
+TH	THA	THAILAND	泰国	泰國	泰國	泰国	泰王国	泰王國	泰王國	泰王国
+TJ	TJK	TAJIKISTAN	塔吉克斯坦	塔吉克	塔吉克斯坦	塔吉克斯坦	塔吉克斯坦共和国	塔吉克共和國	塔吉克斯坦共和國	塔吉克斯坦共和国
+TK	TKL	TOKELAU	托克劳	托克勞	托克勞	托克劳	托克劳	托克勞	托克勞	托克劳
+TM	TKM	TURKMENISTAN	土库曼斯坦	土庫曼	土庫曼斯坦	土库曼斯坦	土库曼斯坦共和国	土庫曼共和國	土庫曼斯坦共和國	土库曼斯坦共和国
+TL	TLS	TIMOR-LESTE	东帝汶	東帝汶	東帝汶	东帝汶	东帝汶民主共和国	東帝汶民主共和國	東帝汶民主共和國	东帝汶民主共和国
+TO	TON	TONGA	汤加	東加	湯加	汤加	汤加王国	東加王國	湯加王國	汤加王国
+TT	TTO	TRINIDAD AND TOBAGO	特立尼达和多巴哥	千里達及托巴哥	千里達和多巴哥	特立尼达和多巴哥	特立尼达和多巴哥共和国	千里達及托巴哥共和國	千里達和多巴哥共和國	特立尼达和多巴哥共和国
+TN	TUN	TUNISIA	突尼斯	突尼西亞	突尼斯	突尼斯	突尼斯共和国	突尼西亞共和國	突尼斯共和國	突尼斯共和国
+TR	TUR	TURKEY	土耳其	土耳其	土耳其	土耳其	土耳其共和国	土耳其共和國	土耳其共和國	土耳其共和国
+TV	TUV	TUVALU	图瓦卢	吐瓦魯	圖瓦盧	图瓦卢	图瓦卢	吐瓦魯	圖瓦盧	图瓦卢
+TW	TWN	TAIWAN	台湾	台灣	台灣	台湾	台湾	中華民國（臺灣）	台灣	台湾
+TZ	TZA	UNITED REPUBLIC OF TANZANIA	坦桑尼亚	坦尚尼亞	坦桑尼亞	坦桑尼亚	坦桑尼亚联合共和国	坦尚尼亞聯合共和國	坦桑尼亞聯合共和國	坦桑尼亚联合共和国
+UG	UGA	UGANDA	乌干达	烏干達	烏干達	乌干达	乌干达共和国	烏干達共和國	烏干達共和國	乌干达共和国
+UA	UKR	UKRAINE	乌克兰	烏克蘭	烏克蘭	乌克兰	乌克兰	烏克蘭	烏克蘭	乌克兰
+UM	UMI	UNITED STATES MINOR OUTLYING ISLANDS	美国本土外小岛屿	美國本土外小島嶼	美國本土外小島嶼	美国本土外小岛屿	美国本土外小岛屿	美國本土外小島嶼	美國本土外小島嶼	美国本土外小岛屿
+UY	URY	URUGUAY	乌拉圭	烏拉圭	烏拉圭	乌拉圭	乌拉圭东岸共和国	烏拉圭東岸共和國	烏拉圭東岸共和國	乌拉圭东岸共和国
+US	USA	UNITED STATES	美国	美國	美國	美国	美利坚合众国	美利堅合眾國	美利堅合眾國	美利坚合众国
+UZ	UZB	UZBEKISTAN	乌兹别克斯坦	烏茲別克	烏茲別克斯坦	乌兹别克斯坦	乌兹别克斯坦共和国	烏茲別克共和國	烏茲別克斯坦共和國	乌兹别克斯坦共和国
+VA	VAT	HOLY SEE (VATICAN CITY STATE)	梵蒂冈	梵蒂岡	梵蒂岡	梵蒂冈	梵蒂冈城国（圣座）	梵蒂岡城國（聖座）	梵蒂岡城國（聖座）	梵蒂冈城国（圣座）
+VC	VCT	SAINT VINCENT AND THE GRENADINES	圣文森特和格林纳丁斯	聖文森及格林納丁	聖文森特和格林納丁斯	圣文森特和格林纳丁斯	圣文森特和格林纳丁斯	聖文森及格林納丁	聖文森特和格林納丁斯	圣文森特和格林纳丁斯
+VE	VEN	VENEZUELA	委内瑞拉	委內瑞拉	委內瑞拉	委内瑞拉	委内瑞拉玻利瓦尔共和国	委內瑞拉玻利瓦共和國	委內瑞拉玻利瓦爾共和國	委内瑞拉玻利瓦尔共和国
+VG	VGB	"VIRGIN ISLANDS, BRITISH"	英属维尔京群岛	英屬維京群島	英屬處女群島	英属维尔京群岛	英属维尔京群岛	英屬維京群島	英屬處女群島	英属维尔京群岛
+VI	VIR	"VIRGIN ISLANDS, U.S."	美属维尔京群岛	美屬維京群島	美屬處女群島	美属维尔京群岛	美属维尔京群岛	美屬維京群島	美屬處女群島	美属维尔京群岛
+VN	VNM	VIET NAM	越南	越南	越南	越南	越南社会主义共和国	越南社會主義共和國	越南社會主義共和國	越南社会主义共和国
+VU	VUT	VANUATU	瓦努阿图	萬那杜	瓦努阿圖	瓦努阿图	瓦努阿图共和国	萬那杜共和國	瓦努阿圖共和國	瓦努阿图共和国
+WF	WLF	WALLIS AND FUTUNA	瓦利斯和富图纳群岛	瓦利斯和富圖納群島	瓦利斯和富圖納群島	瓦利斯和富图纳群岛	瓦利斯和富图纳群岛领土[法国]	瓦利斯和富圖納群島領土[法國]	瓦利斯和富圖納群島領土[法國]	瓦利斯和富图纳群岛领土[法国]
+WS	WSM	SAMOA	萨摩亚	薩摩亞	薩摩亞	萨摩亚	萨摩亚独立国	薩摩亞獨立國	薩摩亞獨立國	萨摩亚独立国
+YE	YEM	YEMEN	也门	葉門	也門	也门	也门共和国	葉門共和國	也門共和國	也门共和国
+ZA	ZAF	SOUTH AFRICA	南非	南非	南非	南非	南非共和国	南非共和國	南非共和國	南非共和国
+ZM	ZMB	ZAMBIA	赞比亚	尚比亞	贊比亞	赞比亚	赞比亚共和国	尚比亞共和國	贊比亞共和國	赞比亚共和国
+ZW	ZWE	ZIMBABWE	津巴布韦	辛巴威	津巴布韋	津巴布韦	津巴布韦共和国	辛巴威共和國	津巴布韋共和國	津巴布韦共和国
+2字母缩写	3字母缩写	英文名	大陆简体通用简称	台灣繁體通用簡稱	港澳繁體通用簡稱	新马简体通用简称	大陆简体全称	台灣繁體全稱	港澳繁體全稱	新马简体全称

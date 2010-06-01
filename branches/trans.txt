@@ -183,6 +183,7 @@ RO	ROU	ROMANIA	罗马尼亚	羅馬尼亞	羅馬尼亞	罗马尼亚	罗马尼亚	羅馬尼亞	羅馬尼亞	罗
 RU	RUS	RUSSIAN FEDERATION	俄罗斯	俄羅斯	俄羅斯	俄罗斯	俄罗斯联邦	俄羅斯聯邦	俄羅斯聯邦	俄罗斯联邦
 RW	RWA	RWANDA	卢旺达	盧安達	盧旺達	卢旺达	卢旺达共和国	盧安達共和國	盧旺達共和國	卢旺达共和国
 SA	SAU	SAUDI ARABIA	沙特阿拉伯	沙烏地阿拉伯	沙特阿拉伯	沙地阿拉伯	沙特阿拉伯王国	沙烏地阿拉伯王國	沙特阿拉伯王國	沙地阿拉伯王国
+CS	SCG	SERBIA AND MONTENEGRO	塞黑	塞蒙	塞黑	塞黑	塞尔维亚和黑山	塞爾維亞與蒙特內哥羅	塞爾維亞和黑山	塞尔维亚和黑山
 SD	SDN	SUDAN	苏丹	蘇丹	蘇丹	苏丹	苏丹共和国	蘇丹共和國	蘇丹共和國	苏丹共和国
 SN	SEN	SENEGAL	塞内加尔	塞內加爾	塞內加爾	塞内加尔	塞内加尔共和国	塞內加爾共和國	塞內加爾共和國	塞内加尔共和国
 SG	SGP	SINGAPORE	新加坡	新加坡	新加坡	新加坡	新加坡共和国	新加坡共和國	新加坡共和國	新加坡共和国
